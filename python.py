@@ -1,5 +1,5 @@
 
-i = 0
-while i < 7:
-	print i
-	i+=1
+p = 0
+while p < 7:
+	print p
+	p+=1
