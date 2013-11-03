@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 i = 0
 <<<<<<< HEAD
 
@@ -8,3 +9,9 @@ while i < 7:
 >>>>>>> first-branch
 	print i
 
+=======
+p = 0
+while p < 7:
+	print p
+	p+=1
+>>>>>>> first-branch
