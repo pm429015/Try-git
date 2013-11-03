@@ -3,8 +3,7 @@
 About
 =====
 
-``scikit-learn`` is a python module for machine learning built on
-top of numpy / scipy.
+``This`` is used to mark a name. 
 
 
 Make a Link
@@ -22,7 +21,7 @@ Write a Sample Cod
 
 Sample to wrie a code ::
 
-  samplecod.run()
-
+  for i range(1,9):
+	print i
 
 
