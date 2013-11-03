@@ -10,3 +10,9 @@ print "another change"
 
 print "branch change"
 print "branch very wellcome"
+
+
+i = 0
+while i < 6:
+	print i
+	i+=1
